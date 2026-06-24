@@ -1,18 +1,5 @@
 defmodule HakoniwaTimeSpec do
   @moduledoc """
-  Documentation for `HakoniwaTimeSpec`.
+  Formal specification support for Hakoniwa time synchronization.
   """
-
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> HakoniwaTimeSpec.hello()
-      :world
-
-  """
-  def hello do
-    :world
-  end
 end

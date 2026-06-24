@@ -1,0 +1,4 @@
+%{
+  "docker_availability": {:hex, :docker_availability, "1.0.4", "af3b1646abaa5e696707721ece4187b521dc920bba9c53b2beb1faf556ab6f30", [:mix], [], "hexpm", "40491132474bf5afff50dee4a5aa1e067233e1f49472b052b9f2c26efe311417"},
+  "lean_lsp": {:hex, :lean_lsp, "0.2.1", "4b1ede760e521b00fbc39b73cc38409fdb965dcfed6f61e2d628b7c9fa04923e", [:mix], [{:docker_availability, "~> 1.0", [hex: :docker_availability, repo: "hexpm", optional: false]}], "hexpm", "ad5f9b83ec3767f8bbd194482100f445693e76e15765deadae9b9081a46338cd"},
+}
