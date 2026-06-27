@@ -25,20 +25,29 @@
     "lean"
   ],
   "words": [
-    "copytex",
+    "deadlock",
+    "Deadlocked",
     "Dmax",
-    "DOMContentLoaded",
-    "hakoniwa",
+    "EPUB",
     "Hakoniwa",
-    "jsDelivr",
+    "hakoniwa",
     "KaTeX",
-    "katex",
     "Lake",
     "LeanLsp",
     "leanprovercommunity",
-    "leq",
-    "Markdown",
+    "mathbb",
+    "mathrm",
+    "pairwise",
+    "reachability",
+    "Reachable",
+    "reflexive",
     "runtime",
-    "TeX"
+    "scheduler",
+    "stutter",
+    "Stutter",
+    "stuttering",
+    "TeX",
+    "texttt",
+    "transitive"
   ]
 }
