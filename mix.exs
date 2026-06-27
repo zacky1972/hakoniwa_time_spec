@@ -19,9 +19,7 @@ defmodule HakoniwaTimeSpec.MixProject do
 
   # Run "mix help compile.app" to learn about applications.
   def application do
-    [
-      extra_applications: [:logger]
-    ]
+    [extra_applications: [:logger]]
   end
 
   def docs do
@@ -64,9 +62,7 @@ defmodule HakoniwaTimeSpec.MixProject do
   end
 
   def cli do
-    [
-      preferred_envs: [precommit: :test]
-    ]
+    [preferred_envs: [precommit: :test]]
   end
 
   def dialyzer do

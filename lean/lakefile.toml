@@ -1,0 +1,6 @@
+name = "hakoniwa_time_spec"
+version = "0.1.0"
+defaultTargets = ["HakoniwaTimeSpec"]
+
+[[lean_lib]]
+name = "HakoniwaTimeSpec"
