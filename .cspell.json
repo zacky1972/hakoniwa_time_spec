@@ -10,7 +10,35 @@
       "addWords": false
     }
   ],
-  "dictionaries": ["elixir", "en-gb", "fhunleth-cspell-dictionary"],
-  "ignorePaths": ["deps", "_build", "assets", "mix.exs", "priv", "test", "lean"],
-  "words": ["hakoniwa", "Hakoniwa", "LeanLsp", "Dmax", "Lake", "runtime", "leanprovercommunity"]
+  "dictionaries": [
+    "elixir",
+    "en-gb",
+    "fhunleth-cspell-dictionary"
+  ],
+  "ignorePaths": [
+    "deps",
+    "_build",
+    "assets",
+    "mix.exs",
+    "priv",
+    "test",
+    "lean"
+  ],
+  "words": [
+    "copytex",
+    "Dmax",
+    "DOMContentLoaded",
+    "hakoniwa",
+    "Hakoniwa",
+    "jsDelivr",
+    "KaTeX",
+    "katex",
+    "Lake",
+    "LeanLsp",
+    "leanprovercommunity",
+    "leq",
+    "Markdown",
+    "runtime",
+    "TeX"
+  ]
 }
